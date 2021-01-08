@@ -1,0 +1,6 @@
+node_modules/
+public/images/*
+!public/images/.gitkeep
+!public/javascript/.gitkeep
+!public/stylesheets/.gitkeep
+.env
